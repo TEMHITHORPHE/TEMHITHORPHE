@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - Love ctfs (🙄 ... please tell me you know what that means😃).
 and ... oh! ...
 - Currently ranks Top10 on [CyberTalent Leaderboard.](https://cybertalents.com/worldrank) at National level. (Don't ask for my global rank😂😂, almost embarrasing)
+- Finally ... Honesty Pays.
 
 ### 💯💣💥🎯Profile Hit🎯💥💣💯
 
