@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
  #### 🧱 STACK 🧱
 - 🌱 Currently learning AWS, Docker, Ethereum Smart Contract with Solidity (wasn't joking earlier😂😂), and 💥Jetpack Compose Desktop💥
-- 🔭 Android Applications development with Kotlin.
+- 🔭 Android Applications development with Kotlin📱.
 - 🤔 I sometimes dabble in blockchain related stuff.
 - 🔭 Expert in Chrome and Browser APIs for buiding Chrome, Safari, Edge, firefox, and other Browser Extensions.
 - 🔭 Web Scraping and Data Wrangling/Cleaning with Python (and it's extensive libraries), Sql, Selenium.
@@ -48,7 +48,7 @@ and ... oh! ...
 
 ![Visitor Count](https://profile-counter.glitch.me/{wise4rmgod}/count.svg)
 
-#### Technologies and Tools
+#### 👨‍💻💻🖥️Technologies and Tools🖥️💻👨‍💻
 
 <p>
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
