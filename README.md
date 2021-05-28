@@ -1,4 +1,4 @@
-###    =====================  👋 HEY!! ... YOU'RE FINALLY HERE!! 👋 ======================
+###    =====================  👋 HEY!! ... YOU'RE FINALLY HERE!! 👋 =====================
 
 <!--
 **TEMHITHORPHE/TEMHITHORPHE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 **wise4rmgod/wise4rmgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1 align="center">Yes 🙄... i know🙄...<br> ⚡I would be glad i found me too.😆</h1>
 
-<p>I am a <b>piano looking guy</b>, <b>short in complexion</b>, <b>Chocolate in height, who loves playing handsome ...</b> and ... <b>Nah ... Nah ... Nah 😆...😆 ... just messing with ya😆</p>
-<p align="center">Soo YES, i <b>"see myself"</b> as <b>Humorous (I wish😄)</b>, <b>🐱‍💻red teamer (In my dreams of course)😄, and a <b>😂BLOCKCHAIN ENGINEER!😂 ... that's a good one😂</b><b> ... ... </p><p>Although... ... I am definitely a lover of FOSS (If you don't know what that means ... i will 💲bill💲 you higher😃)</b>, a <b>Security Enthusiast</b>, passionate about SECURITY across ALL PLATFORMS, yes, am that crazy, a strong believer of giving back to the community, into all things AgriTECH, FinTECH, and an advocate of TECH for SECURITY ... that all🤔 ... ... ... oh yes ... I love DUBLIN LADIES😂😂 </p>
+<p>I am a <b>piano looking guy</b>, <b>tall in complexion</b>, <b>Chocolate in height, who loves playing handsome ...</b> and ... <b>Nah ... Nah ... Nah 😆...😆 ... just messing with ya😆</p>
+<p align="center">Soo YES, i <b>"see myself"</b> as <b>Humorous (I wish😄)</b>, <b>🐱‍💻red teamer (In my dreams of course)😄, and a <b>😂BLOCKCHAIN ENGINEER!😂 ... that's a good one😂</b><b> ... ... </p><p>Although... ... I am definitely a lover of FOSS (If you don't know what that means ... i will 💲bill💲 you higher😃)</b>, a <b>Security Enthusiast</b>, passionate about SECURITY across ALL PLATFORMS, yes, am that crazy, a strong believer of giving back to the community, into all things AgriTECH, FinTECH, and an advocate of TECH for SECURITY ... that all?🤔 ... ... ... oh yes ... I love DUBLIN LADIES😂😂 </p>
 
  #### 🧱 STACK 🧱
 - 🌱 Currently learning AWS, Docker, Ethereum Smart Contract with Solidity (wasn't joking earlier😂😂), and 💥Jetpack Compose Desktop💥
@@ -71,6 +71,6 @@ and ... oh! ...
 #### Currently working at:
 
 - [Developer Intern @ Baze University](#)
-- [Lead Developer @ phoenix labs](#)
+- [Lead Developer @ phoenix labs ng](#)
 
 Thanks for checking out my profile.
