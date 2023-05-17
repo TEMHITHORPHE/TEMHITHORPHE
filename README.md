@@ -1,4 +1,4 @@
-###    ===================  👋 HEY!! ... YOU'RE FINALLY HERE!! 👋 ====================
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!--
 **TEMHITHORPHE/TEMHITHORPHE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,16 +16,15 @@ Here are some ideas to get you started:
 -->
 <!-- ![profile](https://freesvg.org/img/1575462354phoenix-bird-freesvg.org.png) -->
 
-<!--
-**wise4rmgod/wise4rmgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h1 align="center">Yes 🙄... i know🙄...<br> ⚡I would be glad i found me too.😆</h1>
+<h1 align="center">Hey! stranger!😃 ... glad you could make it!⚡</h1>
 
-<p>I am a <b>piano looking guy</b>, <b>tall in complexion</b>, <b>Chocolate in height, who loves playing handsome ...</b> and ... <b>Nah ... Nah ... Nah 😆...😆 ... just messing with ya😆</p>
-<p align="center">Soo YES, i <b>"see myself"</b> as <b>Humorous (I wish😄)</b>, <b>🐱‍💻red teamer (In my dreams of course)😄, and a <b>😂BLOCKCHAIN ENGINEER!😂 ... that's a good one😂</b><b> ... ... </p><p>Although... ... I am definitely a lover of FOSS (If you don't know what that means ... i will 💲bill💲 you higher😃)</b>, a <b>Security Enthusiast</b>, passionate about SECURITY across ALL PLATFORMS, yes, am that crazy, a strong believer of giving back to the community, into all things AgriTECH, FinTECH, and an advocate of TECH for SECURITY ... that all?🤔 ... ... ... oh yes ... I love DUBLIN LADIES😂😂 </p>
+<p>I am a <b>piano looking guy</b>, <b>tall in complexion</b>, <b>Chocolate in height, who loves playing handsome ...</b> and ... <b>nah ... 😆 ... just messing with ya😃</p>
+<p align="justify">Soo YES, i <b>"see myself"</b> as <b>Humorous (I wish😄)</b>, <b>🐱‍💻red teamer (In my dreams of course)😄, and a <b>😂BLOCKCHAIN ENGINEER!😂 ... that's a good one😂</b><b> ... ... </p><p>Although... ... I am definitely a lover of FOSS (If you don't know what that means ... i will 💲bill💲 you higher😃)</b>, a <b>Security Enthusiast</b>, passionate about SECURITY across ALL PLATFORMS, yes, am that crazy, a strong believer of giving back to the community, into all things AgriTECH, FinTECH, and an advocate of TECH for SECURITY ... that all?🤔 ... ... ... oh yes ... I love DUBLIN LADIES😂😂 </p>
 
  #### 🧱 STACK 🧱
-- 🌱 Currently learning AWS, Docker, Ethereum Smart Contract with Solidity (wasn't joking earlier😂😂), and [Desktop App development with Tauri](https://tauri.app/)
-- 🔭 FrontEnd Development with ReactJS and RemixJS.
+- 🌱 Currently learning Rust, Docker, Ethereum Smart Contract with Solidity (wasn't joking earlier😂😂), and [Desktop App development with Tauri](https://tauri.app/)
+- 🔭 FrontEnd Development with [ReactJS](https://react.dev), [RemixJS](https://remix.run/), [Desktop App development with Tauri](https://tauri.app/).
+- 🔭 Backend Engineer (Golang, NodeJs, Python).
 - 🤔 I sometimes dabble in blockchain related stuff.
 - 🔭 Expert in Chrome and Browser APIs for buiding Chrome, Safari, Edge, firefox, and other Browser Extensions.
 - 🔭 Web Scraping and Data Wrangling/Cleaning with Python (and it's extensive libraries), Sql, Selenium.
