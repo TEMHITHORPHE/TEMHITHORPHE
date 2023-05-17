@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  #### 🧱 STACK 🧱
 - 🌱 Currently learning Rust, Docker, Ethereum Smart Contract with Solidity (wasn't joking earlier😂😂), and [Desktop App development with Tauri](https://tauri.app/)
 - 🔭 FrontEnd Development with [ReactJS](https://react.dev), [RemixJS](https://remix.run/), [Tauri](https://tauri.app/).
-- 🔭 Backend Engineer (Golang, NodeJs, Python).
+- 🔭 Backend Engineer ([Golang](https://go.dev/), [NodeJs[Express]](https://expressjs.com/), [Python](https://www.python.org/)).
 - 🤔 I sometimes dabble in blockchain related stuff.
 - 🔭 Expert in Chrome and Browser APIs for buiding Chrome, Safari, Edge, firefox, and other Browser Extensions.
 - 🔭 Web Scraping and Data Wrangling/Cleaning with Python (and it's extensive libraries), Sql, Selenium.
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - Am yet to find a decent, security-inclined Laravel Developer😆
 - Love ctfs (🙄 ... please tell me you know what that means😃).
 and ... oh! ...
-- Currently ranks Top20 on [CyberTalent Leaderboard.](https://cybertalents.com/worldrank) at National level. (Don't ask for my global rank😂😂, almost embarrasing)
+- Top 10 [CyberTalent Leaderboard](https://cybertalents.com/worldrank) National level. (Don't ask for my global rank, almost embarrasing 😀)
 - Finally ... Honesty Pays.
 
 ### 💯💣💥🎯Profile Hit🎯💥💣💯
