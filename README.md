@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
  #### 🧱 STACK 🧱
 - 🌱 Currently learning Rust, Docker, Ethereum Smart Contract with Solidity (wasn't joking earlier😂😂), and [Desktop App development with Tauri](https://tauri.app/)
-- 🔭 FrontEnd Development with [ReactJS](https://react.dev), [RemixJS](https://remix.run/), [Desktop App development with Tauri](https://tauri.app/).
+- 🔭 FrontEnd Development with [ReactJS](https://react.dev), [RemixJS](https://remix.run/), [Tauri](https://tauri.app/).
 - 🔭 Backend Engineer (Golang, NodeJs, Python).
 - 🤔 I sometimes dabble in blockchain related stuff.
 - 🔭 Expert in Chrome and Browser APIs for buiding Chrome, Safari, Edge, firefox, and other Browser Extensions.
