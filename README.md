@@ -18,8 +18,17 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey! stranger!😃 ... glad you could make it!⚡</h1>
 
+### (Welcome)🙏🏻, I am Temi Horlabosun 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Temitope-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://ng.linkedin.com/in/temhithorphe)](https://ng.linkedin.com/in/temhithorphe/)
+[![Gmail Badge](https://img.shields.io/badge/-Tehmhithorphe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Tehmhithorphe@gmail.com)](mailto:Tehmhithorphe@gmail.com)
+
 <p>I am a <b>piano looking guy</b>, <b>tall in complexion</b>, <b>Chocolate in height, who loves playing handsome ...</b> and ... <b>nah 😃 I'm just messing with ya</p>
-<p align="justify">Also a self proclaimed security researcher, builder, 💻red teamer (In my dreams of course), and a <b>BLOCKCHAIN DEV! ... that's a good one😂</b><b> ... ... </p><p>An avid lover of FOSS </b>, <b>Security Enthusiast</b>, passionate about SECURITY across ALL PLATFORMS, yes, am that crazy, a strong believer of giving back to the community, into all things AgriTECH, FinTECH, and an advocate of TECH for SECURITY ... </p>
+<p align="justify">Also a self proclaimed security researcher, builder, 💻red teamer (In my dreams of course), an avid lover of Free Open Source Software (FOSS), Security Enthusiast, passionate about SECURITY across ALL PLATFORMS, yes, am that crazy, a strong believer of giving back to the community, into all things AgriTECH, FinTECH, and an advocate of TECH for SECURITY ... </b></p>
+
+- 💬 Ask me about anything, I am happy to help 😃:
+- 📬 How to reach me: [Let's get in touch!][Gmail]
+
+
 
  #### 🧱 STACK 🧱
 - 🌱 Currently learning [Rust](https://www.rust-lang.org/), [Flutter](https://flutter.dev/), [Ethereum Smart Contract with Solidity](https://soliditylang.org/) (wasn't joking earlier😂), and [Desktop App development with Tauri](https://tauri.app/)
@@ -30,6 +39,7 @@ Here are some ideas to get you started:
 - 🔭 Web Scraping and Data Wrangling/Cleaning with Python (and it's extensive libraries), Sql, Selenium.
 - 👯 I’m looking to collaborate on Web3, Web2, Mobile and Desktop development.
 - 📫 Connect with me on : [Twitter](https://twitter.com/tehmhithorphe), [LinkedIn](https://ng.linkedin.com/in/temhithorphe), and good ol [mail](Tehmhithorphe@gmail.com)
+
 #### ⚡⚡ Fun Facts ⚡⚡ 
 - Local Table Tennis (ping pong) champ.
 - Local Pool(Snookers) champ.
@@ -73,3 +83,5 @@ Here are some ideas to get you started:
 
 
 Thanks for checking out my profile.
+
+[Gmail]: mailto:Temhithorpe@gmail.com
