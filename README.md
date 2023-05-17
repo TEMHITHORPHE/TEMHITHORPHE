@@ -64,7 +64,7 @@
 
 
 #### He could work in my company as:
-- [Backend Developer](#), [Frontend Developer](#) [Software Developer](#), [Junior Engineer](#), [Data Engineer](#) ... who knows 🤷
+- [Backend Developer](#), [Frontend Developer](#), [Software Developer](#), [Junior Engineer](#), [Data Engineer](#) ... who knows 🤷
 
 #### Developer At:
 - [phoenix labs ng](#)
