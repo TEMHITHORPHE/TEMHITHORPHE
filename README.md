@@ -34,7 +34,7 @@
 - Mavin Gaye is awesome
 - Am yet to find a decent, security-inclined Laravel Developer 
 - CTF player.
-- Top 15 [CyberTalent Leaderboard](https://cybertalents.com/worldrank) National level. (Don't ask for my global rank, almost embarrasing 😀)
+- Top 20 [CyberTalent Leaderboard](https://cybertalents.com/worldrank) National level. (Don't ask for my global rank, almost embarrasing 😀)
 - ... Honesty Pays ... 
 
 
