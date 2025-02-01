@@ -1,13 +1,13 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<h1 align="center">Hey! stranger!😃 ... glad you could make it!⚡</h1>
+<h1 align="center">Hey!, glad you could make it!⚡</h1>
 
 ### (Welcome)🙏🏻, I am Temi Horlabosun 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Temitope-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://ng.linkedin.com/in/temhithorphe)](https://ng.linkedin.com/in/temhithorphe/)
 [![Gmail Badge](https://img.shields.io/badge/-Tehmhithorphe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Tehmhithorphe@gmail.com)](mailto:Tehmhithorphe@gmail.com)
 
-<p align="justify">I am a <b>piano looking guy</b>, <b>tall in complexion</b>, <b>Chocolate in height, who loves playing handsome ...</b> and ... <b>nah 😃 I'm just messing with ya</p>
-<p align="justify">Also a self proclaimed security researcher, builder, 💻red teamer (In my dreams of course), an avid lover of Free Open Source Software (FOSS), Security Enthusiast, passionate about SECURITY across ALL PLATFORMS, yes, am that crazy, a strong believer of giving back to the community, into all things AgriTECH, FinTECH, and an advocate of TECH for SECURITY ... </b></p>
+<p align="justify">I am a <b>piano looking guy</b>, <b>tall in complexion</b>, <b>Chocolate in height, who loves playing handsome ...</b>
+<p align="justify">Also a self proclaimed security researcher, builder, tinkerer, an avid lover of Free Open Source Software (FOSS), Security Enthusiast, passionate about SECURITY across ALL PLATFORMS, yes, am that crazy, a strong believer of giving back to the community, into all things privyTECH, FinTECH, and an advocate of TECH for SECURITY ... </b></p>
 
 - 💬 Ask me about anything, I am happy to help 😃:
 - 📬 How to reach me: [Let's get in touch!][Gmail]
@@ -15,10 +15,10 @@
 
 
  #### 🧱 STACK 🧱
-- 🌱 Currently learning [Rust](https://www.rust-lang.org/), [Flutter](https://flutter.dev/), [Ethereum Smart Contract with Solidity](https://soliditylang.org/) (wasn't joking earlier 😀), and [Desktop App development with Tauri](https://tauri.app/)
-- 🔭 FrontEnd Development with [ReactJS](https://react.dev), [RemixJS](https://remix.run/), [Tauri](https://tauri.app/).
+- 🌱 Currently learning [Rust](https://www.rust-lang.org/), [Flutter](https://flutter.dev/), and [Desktop App development with Tauri](https://tauri.app/)
+- 🔭 FrontEnd Development with [AstrO](https://astro.build), [ReactJS](https://react.dev), [RemixJS](https://remix.run/), [NextJS](https://nextjs.org), [Tauri](https://tauri.app/).
 - 🔭 Backend Engineer ([Golang](https://go.dev/), [NodeJs[Express]](https://expressjs.com/), [Python](https://www.python.org/)).
-- 🤔 I sometimes dabble in blockchain related stuff.
+- 🤔 I mostly dabble in blockchain related stuff.
 - 🔭 Expert in Chrome and Browser APIs for buiding Chrome, Safari, Edge, firefox, and other Browser Extensions.
 - 🔭 Web Scraping and Data Wrangling/Cleaning with Python (and it's extensive libraries), Sql, Selenium.
 - 👯 I’m looking to collaborate on Web3, Web2, Mobile and Desktop development.
@@ -32,10 +32,8 @@
 - Lover of all things mandiant 😀.
 - Build Bots for fun and profit.
 - Mavin Gaye is awesome
-- Am yet to find a decent, security-inclined Laravel Developer 
 - CTF player.
-- Top 20 [CyberTalent Leaderboard](https://cybertalents.com/worldrank) National level. (Don't ask for my global rank, almost embarrasing 😀)
-- ... Honesty Pays ... 
+- Top 20 [CyberTalent Leaderboard](https://cybertalents.com/worldrank) National level. (don't ask for my global rank, lol)
 
 
 ### Languages and Tools:
@@ -64,7 +62,7 @@
 
 
 #### He could work in my company as:
-- [Backend Developer](#), [Frontend Developer](#), [Software Developer](#), [Junior Engineer](#), [Data Engineer](#) ... who knows 🤷
+- [Backend Developer](#), [Frontend Developer](#), [Software Developer](#), [Junior Engineer](#) ... who knows 🤷
 
 #### Developer At:
 - [phoenix labs ng](#)
