@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Tehmhithorphe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Tehmhithorphe@gmail.com)](mailto:Tehmhithorphe@gmail.com)
 
 <p align="justify">I am a <b>piano looking guy</b>, <b>tall in complexion</b>, <b>Chocolate in height, who loves playing handsome ...</b>
-<p align="justify">Also a self proclaimed security researcher, builder, tinkerer, an avid lover of Free Open Source Software (FOSS), Security Enthusiast, passionate about SECURITY across ALL PLATFORMS, yes, am that crazy, a strong believer of giving back to the community, into all things privyTECH, FinTECH, and an advocate of TECH for SECURITY ... </b></p>
+<p align="justify">Also a self proclaimed security researcher, serial builder, tinkerer, an avid lover of Free Open Source Software (FOSS), Security Enthusiast, passionate about SECURITY across ALL PLATFORMS, yes, am that crazy, a strong believer of giving back to the community, into all things privyTECH, FinTECH, and an advocate of TECH for SECURITY ... </b></p>
 
 - 💬 Ask me about anything, I am happy to help 😃:
 - 📬 How to reach me: [Let's get in touch!][Gmail]
@@ -15,10 +15,10 @@
 
 
  #### 🧱 STACK 🧱
-- 🌱 Currently learning [Rust](https://www.rust-lang.org/), [Flutter](https://flutter.dev/), and [Desktop App development with Tauri](https://tauri.app/)
+- 🌱 Currently learning [Rust](https://www.rust-lang.org/), [React Native](https://reactnative.dev/), and [Desktop App development with Tauri](https://tauri.app/)
 - 🔭 FrontEnd Development with [AstrO](https://astro.build), [ReactJS](https://react.dev), [RemixJS](https://remix.run/), [NextJS](https://nextjs.org), [Tauri](https://tauri.app/).
 - 🔭 Backend Engineer ([Golang](https://go.dev/), [NodeJs[Express]](https://expressjs.com/), [Python](https://www.python.org/)).
-- 🤔 I mostly dabble in blockchain related stuff.
+- 🤔 I mostly dabble in blockchain related stuff, polkadot, stellar, starknet, EVM.
 - 🔭 Expert in Chrome and Browser APIs for buiding Chrome, Safari, Edge, firefox, and other Browser Extensions.
 - 🔭 Web Scraping and Data Wrangling/Cleaning with Python (and it's extensive libraries), Sql, Selenium.
 - 👯 I’m looking to collaborate on Web3, Web2, Mobile and Desktop development.
@@ -27,13 +27,12 @@
 #### ⚡⚡ Fun Facts ⚡⚡ 
 - Local Table Tennis (ping pong) champ.
 - Local Pool(Snookers) champ.
-- I love breaking things(WebApps) ... Please tell me it was built with laravel ☺️.
-- I feel you're missing out if you don't like classical music 😀
-- Lover of all things mandiant 😀.
-- Build Bots for fun and profit.
+- A self proclaimed Security Researcher, I love Code Auditing. 
+- Classical music might be the best thing since slice bread 😀
+- Lover of all things [Mandiant](https://www.mandiant.com/) 😀.
+- Build Bots for fun and profit . . . mostly profit.
 - Mavin Gaye is awesome
-- CTF player.
-- Top 20 [CyberTalent Leaderboard](https://cybertalents.com/worldrank) National level. (don't ask for my global rank, lol)
+- Top 20 [CyberTalent Leaderboard](https://cybertalents.com/worldrank) National level. (don't ask for my global rank, embarrasing 😅)
 
 
 ### Languages and Tools:
@@ -66,6 +65,7 @@
 
 #### Developer At:
 - [phoenix labs ng](#)
+- [MiraClues Inc](#)
 
 #### Worked As:
 - [Network Hardware Intern @ Baze University](#)
