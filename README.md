@@ -21,7 +21,7 @@
 - 🔭 Backend Engineer [Rust](https://www.rust-lang.org/), [NodeJs[Express]](https://expressjs.com/), [Python](https://www.python.org/).
 - 🤔 I dabble in blockchain related development, Polkadot, EVM, Stellar, SUi.
 - 🔭 Expert in Chrome and Browser APIs for buiding Chrome, Safari, Edge, firefox, and other Browser Extensions.
-- 🔭 Web Scraping and Data Wrangling/Cleaning with Python (and it's extensive libraries), Sql, playwright, scrapy, Selenium, lightpanda etc.
+- 🔭 Web Scraping and Data Wrangling/Cleaning with SQL & Python (playwright, Selenium, cdp, lightpanda etc.).
 - 👯 I’m looking to collaborate on Web3, Web2, Mobile and Desktop development.
 - 📫 Connect with me on : [Twitter](https://twitter.com/tehmhithorphe), [LinkedIn](https://ng.linkedin.com/in/temhithorphe), and good ol [mail](Tehmhithorphe@gmail.com)
 
