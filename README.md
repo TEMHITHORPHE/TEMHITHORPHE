@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Tehmhithorphe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Tehmhithorphe@gmail.com)](mailto:Tehmhithorphe@gmail.com)
 
 <p align="justify">I am a <b>piano looking guy</b>, <b>tall in complexion</b>, <b>Chocolate in height, who loves playing handsome ...</b>
-<p align="justify">Also a self proclaimed security researcher, serial builder, tinkerer, an avid lover of Free Open Source Software (FOSS), Security Enthusiast, passionate about SECURITY across ALL PLATFORMS, yes, am that crazy, a strong believer of giving back to the community, into all things privyTECH, FinTECH, and an advocate of TECH for SECURITY ... </b></p>
+<p align="justify">Also a self proclaimed security researcher, defense tech enthusiast, tinkerer, an avid lover of Free Open Source Software, security enthusiast, passionate about SECURITY across ALL PLATFORMS, a strong believer of giving back to the community, into all things privyTECH, FinTECH & DefenseTECH</b></p>
 
 - 💬 Ask me about anything, I am happy to help 😃:
 - 📬 How to reach me: [Let's get in touch!][Gmail]
@@ -15,9 +15,10 @@
 
 
  #### 🧱 STACK 🧱
-- 🌱 Currently learning [Rust](https://www.rust-lang.org/), [React Native](https://reactnative.dev/), and [Desktop App development with Tauri](https://tauri.app/)
+- 🚀 [Rust](https://www.rust-lang.org/) Systems Engineer & Security Researcher.
+- 🌱 Current learnings: [React Native](https://reactnative.dev/), [ROS2](https://docs.ros.org/en/kilted/index.html) interfaces; nodes and messaging layer (e.g [zenoh](https://zenoh.io/docs/overview/what-is-zenoh/)), [Sensor Fusion](https://en.wikipedia.org/wiki/Sensor_fusion) in UAV Systems.
 - 🔭 FrontEnd Development with [AstrO](https://astro.build), [ReactJS](https://react.dev), [RemixJS](https://remix.run/), [NextJS](https://nextjs.org), [Tauri](https://tauri.app/).
-- 🔭 Backend Engineer ([Golang](https://go.dev/), [NodeJs[Express]](https://expressjs.com/), [Python](https://www.python.org/)).
+- 🔭 Backend Engineer [Rust](https://www.rust-lang.org/), [NodeJs[Express]](https://expressjs.com/), [Python](https://www.python.org/).
 - 🤔 I mostly dabble in blockchain related stuff, polkadot, stellar, starknet, EVM.
 - 🔭 Expert in Chrome and Browser APIs for buiding Chrome, Safari, Edge, firefox, and other Browser Extensions.
 - 🔭 Web Scraping and Data Wrangling/Cleaning with Python (and it's extensive libraries), Sql, Selenium.
@@ -27,12 +28,12 @@
 #### ⚡⚡ Fun Facts ⚡⚡ 
 - Local Table Tennis (ping pong) champ.
 - Local Pool(Snookers) champ.
-- A self proclaimed Security Researcher, I love Code Auditing. 
+- A lover of Code Auditing & White Box testing. 
 - Classical music might be the best thing since slice bread 😀
-- Lover of all things [Mandiant](https://www.mandiant.com/) 😀.
+- Was a lover of all things [Mandiant](https://www.mandiant.com/) 😀.
 - Build Bots for fun and profit . . . mostly profit.
-- Mavin Gaye is awesome
-- Top 20 [CyberTalent Leaderboard](https://cybertalents.com/worldrank) National level. (don't ask for my global rank, embarrasing 😅)
+- Ransom | Mavin Gaye | Ren are awesome musicians.
+- Top 20 (since last i checked) [CyberTalent Leaderboard](https://cybertalents.com/worldrank) National level. (l don't ask for my global rank, embarrasing 😅)
 
 
 ### Languages and Tools:
