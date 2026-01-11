@@ -19,9 +19,9 @@
 - 🌱 Current learnings: [React Native](https://reactnative.dev/), [ROS2](https://docs.ros.org/en/kilted/index.html) interfaces; nodes and messaging layer (e.g [zenoh](https://zenoh.io/docs/overview/what-is-zenoh/)), [Sensor Fusion](https://en.wikipedia.org/wiki/Sensor_fusion) in UAV Systems.
 - 🔭 FrontEnd Development with [AstrO](https://astro.build), [ReactJS](https://react.dev), [RemixJS](https://remix.run/), [NextJS](https://nextjs.org), [Tauri](https://tauri.app/).
 - 🔭 Backend Engineer [Rust](https://www.rust-lang.org/), [NodeJs[Express]](https://expressjs.com/), [Python](https://www.python.org/).
-- 🤔 I mostly dabble in blockchain related stuff, polkadot, stellar, starknet, EVM.
+- 🤔 I dabble in blockchain related development, Polkadot, EVM, Stellar, SUi.
 - 🔭 Expert in Chrome and Browser APIs for buiding Chrome, Safari, Edge, firefox, and other Browser Extensions.
-- 🔭 Web Scraping and Data Wrangling/Cleaning with Python (and it's extensive libraries), Sql, Selenium.
+- 🔭 Web Scraping and Data Wrangling/Cleaning with Python (and it's extensive libraries), Sql, playwright, scrapy, Selenium, lightpanda etc.
 - 👯 I’m looking to collaborate on Web3, Web2, Mobile and Desktop development.
 - 📫 Connect with me on : [Twitter](https://twitter.com/tehmhithorphe), [LinkedIn](https://ng.linkedin.com/in/temhithorphe), and good ol [mail](Tehmhithorphe@gmail.com)
 
